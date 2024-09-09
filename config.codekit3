@@ -17,14 +17,6 @@
       "oAP" : "\/.gitignore",
       "oF" : 0
     },
-    "\/.keyfile" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/.keyfile",
-      "oF" : 0
-    },
     "\/2030.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -162,12 +154,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/locations.html",
-      "oF" : 0
-    },
-    "\/node_modules" : {
-      "ft" : 65536,
-      "oA" : 2,
-      "oAP" : "\/node_modules",
       "oF" : 0
     },
     "\/overflow.html" : {
@@ -4267,7 +4253,7 @@
     },
     "\/Themes\/new\/Assets\/Images\/gauntlet\/favicons\/android-chrome-192x192.png" : {
       "ft" : 32768,
-      "iS" : 8028,
+      "iS" : 8625,
       "oA" : 0,
       "oAP" : "\/Themes\/new\/Assets\/Images\/gauntlet\/favicons\/android-chrome-192x192.png",
       "oF" : 0,
@@ -4280,7 +4266,7 @@
     },
     "\/Themes\/new\/Assets\/Images\/gauntlet\/favicons\/android-chrome-512x512.png" : {
       "ft" : 32768,
-      "iS" : 26081,
+      "iS" : 26545,
       "oA" : 0,
       "oAP" : "\/Themes\/new\/Assets\/Images\/gauntlet\/favicons\/android-chrome-512x512.png",
       "oF" : 0,
@@ -4293,7 +4279,7 @@
     },
     "\/Themes\/new\/Assets\/Images\/gauntlet\/favicons\/apple-touch-icon.png" : {
       "ft" : 32768,
-      "iS" : 7300,
+      "iS" : 7897,
       "oA" : 0,
       "oAP" : "\/Themes\/new\/Assets\/Images\/gauntlet\/favicons\/apple-touch-icon.png",
       "oF" : 0,
@@ -4306,7 +4292,7 @@
     },
     "\/Themes\/new\/Assets\/Images\/gauntlet\/favicons\/favicon-16x16.png" : {
       "ft" : 32768,
-      "iS" : 602,
+      "iS" : 599,
       "oA" : 0,
       "oAP" : "\/Themes\/new\/Assets\/Images\/gauntlet\/favicons\/favicon-16x16.png",
       "oF" : 0,
